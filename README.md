@@ -1,16 +1,23 @@
-# youtube_views
+# Flutter YouTube Player
 
-A new Flutter project.
+This is the source code for YouTube Player using Flutter.<br>
 
-## Getting Started
+## App Features
+- Add your video URL to firebase.<br>
+- Retrieve video URL from firebase.<br>
+- Play it in YouTube Player.<br><br>
 
-This project is a starting point for a Flutter application.
+For Step By Step Guide Follow Video Tutorial:
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter YouTube Player - Complete Tutorial From Scratch](https://youtu.be/3gU1OLKBcys)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Links used in project:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Firebase Core](https://pub.dev/packages/firebase_core)
+- [Cloud_Firestore](https://bit.ly/33jKTZA)
+- [YouTube Player Flutter](http://bit.ly/39LaT2s)
+- [FlushBar](http://bit.ly/3sNIul0)
+<br><br>
+
+Feel Free to copy the code and use it.<br><br>
+Don't forget to star the repo and like the video :)
