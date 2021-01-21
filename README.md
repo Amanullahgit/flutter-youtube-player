@@ -14,7 +14,7 @@ For Step By Step Guide Follow Video Tutorial:
 ## Links used in project:
 
 - [Firebase Core](https://pub.dev/packages/firebase_core)
-- [Cloud_Firestore](https://bit.ly/33jKTZA)
+- [Cloud Firestore](https://bit.ly/33jKTZA)
 - [YouTube Player Flutter](http://bit.ly/39LaT2s)
 - [FlushBar](http://bit.ly/3sNIul0)
 <br><br>
